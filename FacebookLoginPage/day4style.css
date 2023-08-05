@@ -1,0 +1,93 @@
+body{
+  background: #f0f2f5;
+  position: absolute;
+  width: 100%;
+  background-color: rgb(208, 210, 212);
+  font-family: Helvetica, sans-serif;
+}
+.full{
+  position: absolute;
+  width: 100%;
+}
+.text{
+    width: 91.5%;
+    margin-bottom: 10px;
+}
+h1{
+    font-family: poppins, sans-serif;
+    color: rgb(69,137,240);
+    font-size: 40px;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(58, 57, 57);
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.left{
+    margin-top: 200px;
+    margin-left: 150px;
+    width: 40%;
+    display: inline-block;
+    position: absolute;
+    bottom: 150px;
+}
+#login{
+  color: white;
+  background-color: rgb(69,137,240);;
+}
+.right{
+  position: relative;
+  display:inline-block;
+  left: 55%;
+  width: auto;
+  text-align: center;
+}
+.form{
+  background: white;
+  padding: 20px;
+  width: 350px;
+}
+.center{
+  position: absolute;
+  width: 100%;
+  margin-top: 100px;
+  margin-left: 80px;
+  color: white;
+}
+
+.form{
+    background-color: white;
+    border-radius: 5px;
+}
+form input{
+    height: 60px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    padding: 0px 14px;
+  }
+#newacc{
+    background-color: #42b72a;
+    color: white;
+    width: 200px;
+    height: 60px;
+}
+.newPage {
+ font-family: Helvetica, sans-serif;
+ font-size: 15px;
+ font-weight: 200;
+ color: black;
+ margin-top: 10px;
+ text-decoration: none;
+}
+.newPage a { color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+#forg {
+  color: rgb(69,137,240);
+}
